@@ -1,4 +1,4 @@
-
+http://127.0.0.1:8000/docs#/default
 
 from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy.orm import Session
